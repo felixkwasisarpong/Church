@@ -34,18 +34,7 @@
                 <td> $ 77.99 </td>
                 <td> May 15, 2015 </td>
               </tr>
-              <tr>
-                <td class="py-1">
-                  <img src="{{ url('assets/images/faces-clipart/pic-2.png') }}" alt="image" /> </td>
-                <td> Messsy Adam </td>
-                <td>
-                  <div class="progress">
-                    <div class="progress-bar bg-danger" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
-                  </div>
-                </td>
-                <td> $245.30 </td>
-                <td> July 1, 2015 </td>
-              </tr>
+          
               <tr>
                 <td class="py-1">
                   <img src="{{ url('assets/images/faces-clipart/pic-3.png') }}" alt="image" /> </td>
