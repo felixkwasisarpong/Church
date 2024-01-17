@@ -36,18 +36,7 @@
               </tr>
           
              
-              <tr>
-                <td class="py-1">
-                  <img src="{{ url('assets/images/faces-clipart/pic-4.png') }}" alt="image" /> </td>
-                <td> Peter Meggik </td>
-                <td>
-                  <div class="progress">
-                    <div class="progress-bar bg-primary" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
-                  </div>
-                </td>
-                <td> $ 77.99 </td>
-                <td> May 15, 2015 </td>
-              </tr>
+             
               <tr>
                 <td class="py-1">
                   <img src="{{ url('assets/images/faces-clipart/pic-1.png') }}" alt="image" /> </td>
